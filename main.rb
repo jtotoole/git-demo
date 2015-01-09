@@ -1,5 +1,5 @@
 def hello
 	p "hello"
-	p "goodbye"
+	p "i love you but i'm not in love with you"
 end
 
