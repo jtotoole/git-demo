@@ -1,4 +1,4 @@
-def sup
+def yo
 	p "hello"
 	p "i love you but i'm not in love with you"
 end
